@@ -1,0 +1,99 @@
+
+
+.box-child-1{
+    border: 2px solid #000;
+    display: flex;
+    width: 90vw;
+    min-width: 5vw;
+    height: 10vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+    background-color: aqua;
+  
+}
+
+.box-child-2{
+    border: 2px solid #000;
+    display: flex;
+    width: 90vw;
+    min-width: 5vw;
+    height: 20vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+    background-color: blue;
+    
+}
+
+.box-child-5{
+    background-color: aliceblue;
+    height: 15vh;
+    width: 10vw;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+}
+
+.box-child-6{
+    background-color: beige;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 70vw;
+
+}
+
+.box-child-3{
+    border: 2px solid #000;
+    display: flex;
+    width: 90vw;
+    min-width: 5vw;
+    height: 20vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+    background-color: blueviolet;
+}
+
+.box-child-7{
+    background-color: chocolate;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+    
+
+}
+
+.box-child-8{
+    background-color: cornflowerblue;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+    
+}
+
+.box-child-9{
+    background-color: darkgreen;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+}
+
+.box-child-10{
+    background-color: blanchedalmond;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+}
+
+.box-child-4{
+    border: 2px solid #000;
+    display: flex;
+    background-color: chartreuse;
+    width: 90vw;
+    min-width: 5vw;
+    height: 20vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+}
