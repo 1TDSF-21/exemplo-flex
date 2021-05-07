@@ -12,11 +12,11 @@
 
 .box {
     display: block;
-    /*width: 10vw;
-    min-width: 5vw;*/
+    width: 300px;
+    /* min-width: 5vw;
     height: 15vh;
     margin: 3vh 3vw;
-    padding: 1vh 1vw;
+    padding: 1vh 1vw; */
     color: #fff;
 }
 
