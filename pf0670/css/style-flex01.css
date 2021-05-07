@@ -1,4 +1,5 @@
 .box-container {
+    border: solid 2px #000;
     display: flex;
     flex-direction: column-reverse;
     /*
