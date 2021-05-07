@@ -1,4 +1,4 @@
- .box, .box-1{ 
+.box, .bo
     border: 1px solid red;
 }
 
@@ -18,8 +18,6 @@
     margin-left: 2vw;
     margin-right: 2vw;
     margin-top: 2vh;
-    
-
 }
 
 .box-child-7, .box-child-8, .box-child-9, .box-child-10{
