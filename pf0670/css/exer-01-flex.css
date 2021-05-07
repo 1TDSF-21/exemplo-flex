@@ -1,0 +1,65 @@
+.box, .box-1{ 
+    border: 1px solid red;
+}
+
+.box-pai{
+    background-color: rgb(228, 228, 228);
+}
+
+
+
+.box-pai{
+    display: flex;
+    flex-direction: column;
+}
+
+.box-child-1{
+    height: 15vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: 2vh;
+
+
+}
+
+.box-child-7, .box-child-8, .box-child-9, .box-child-10{
+    height: 17vh;
+    width: 50%;
+    margin-top: 2vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+
+}
+
+.box-child-5{
+    height: 17vh;
+    width: 22%;
+    margin-top: 2vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.box-child-6{
+    height: 17vh;
+    width: 75%;
+    margin-top: 2vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.box-child-2, .box-child-3{
+    height: 25vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: 2vh;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.box-child-4{
+    height: 25vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: 2vh;
+}
