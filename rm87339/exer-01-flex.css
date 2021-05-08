@@ -5,7 +5,6 @@
     margin-bottom: 5vh;
 }
 
-
 .box-child-1 {
 
     border: 1px solid #bb0303;
@@ -15,7 +14,6 @@
     margin-top: 3vh;
 
 }
-
 
 .box {
     display: flex;

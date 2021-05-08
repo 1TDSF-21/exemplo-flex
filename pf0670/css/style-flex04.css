@@ -2,8 +2,10 @@
     display: flex;
     flex-direction: row;
     /*
+
     A utilização do Flex (grow,basis), deve ser nos itens.    
     E devemos suprimir as larguras para que não afete a manipulação.
+
     */
 }
 
