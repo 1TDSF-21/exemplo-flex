@@ -1,0 +1,99 @@
+
+
+.box-child-1{
+    border: 2px solid #000;
+    display: flex;
+    width: 90vw;
+    min-width: 5vw;
+    height: 10vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+    background-color:black;
+  
+}
+
+.box-child-2{
+    border: 2px solid #000;
+    display: flex;
+    width: 90vw;
+    min-width: 5vw;
+    height: 20vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+    background-color: rgb(29, 29, 255);
+    
+}
+
+.box-child-5{
+    background-color: rgb(0, 40, 75);
+    height: 15vh;
+    width: 10vw;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+}
+
+.box-child-6{
+    background-color: rgb(13, 25, 88);
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 70vw;
+
+}
+
+.box-child-3{
+    border: 2px solid #000;
+    display: flex;
+    width: 90vw;
+    min-width: 5vw;
+    height: 20vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+    background-color: rgb(255, 0, 0);
+}
+
+.box-child-7{
+    background-color: rgb(255, 55, 55);
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+    
+
+}
+
+.box-child-8{
+    background-color: rgb(255, 130, 130);
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+    
+}
+
+.box-child-9{
+    background-color: rgb(255, 177, 177);
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+}
+
+.box-child-10{
+    background-color: rgb(150, 20, 20);
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    height: 15vh;
+    width: 15vw;
+}
+
+.box-child-4{
+    border: 2px solid #000;
+    display: flex;
+    background-color: rgb(31, 61, 0);
+    width: 90vw;
+    min-width: 5vw;
+    height: 20vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+}
