@@ -1,0 +1,101 @@
+.box-pai {
+    border: solid 2px #000;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+.box {
+    border: solid 1px #000;
+    display: block;
+    min-width: 5vw;
+    height: 15vh;
+    margin: 3vh 3vw;
+    padding: 1vh 1vw;
+    color: #fff;
+}
+
+.box-child-1 {
+
+    background-color: #ff0000;
+
+}
+
+.box-child-2 {
+    background-color: cornflowerblue;
+    display:flex;
+    flex-direction: row;
+    height: 20vh;
+}
+.box-child-2 .box-1{
+    border: 1px solid #ff0000;
+    margin: 1.5vh 1.5vw 1.5vh 0vw;
+
+}
+
+.box-child-3 {
+     /* Box 2 */
+    background-color: #00ff80;
+    flex-grow: 1;
+    display:flex;
+    flex-direction: row;
+    height: 20vh;
+
+}
+.box-child-3 .box-1{
+    /* Box 2 */
+    border: 1px solid #e91818;
+    margin: 1.5vh 1.5vw 1.5vh 1vw;
+    width: 20vw;
+}
+
+.box-child-4 {
+    /* Box 10 */
+    background-color: darkslateblue;
+}
+
+.box-child-5 {
+    /* Box 2 */
+    background-color: yellow;
+    border: solid 1px #000;
+    color: black;
+    padding: 3px;
+    width: 15vw;
+}
+
+.box-child-6 {
+    /* Box 2 */
+    background-color: gold;
+    border: solid 1px #000;
+    color: black;
+    padding: 3px;
+    width: 86vw;
+}
+
+.box-child-7 {
+    background-color: lightcoral;
+    border: solid 1px #000;
+    padding: 3px;
+}
+
+.box-child-8 {
+    background-color: fuchsia;
+    border: solid 1px #000;
+    padding: 3px;
+}
+
+.box-child-9 {
+    background-color: grey;
+    border: solid 1px #000;
+    padding: 3px;
+}
+
+.box-child-10 {
+    background-color: #80ffff;
+    border: solid 1px #000;
+    padding: 3px;
+    color: black;
+}
